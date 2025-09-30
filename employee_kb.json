@@ -1,0 +1,57 @@
+[
+  {
+    "id": "accessing-the-employee-portal",
+    "title": "Accessing the Employee Portal",
+    "content": "The employee portal is the hub for HR, payroll, and updates. Go to staff.hello-telecom.com and log in using your staff ID. If you forget your password, use the Forgot Password link or contact IT Helpdesk."
+  },
+  {
+    "id": "mandatory-training",
+    "title": "Mandatory Training",
+    "content": "All new employees must complete the online induction module within 7 days. Training covers customer service standards, data privacy, compliance, and company policies."
+  },
+  {
+    "id": "greeting-standards",
+    "title": "Greeting Standards",
+    "content": "Always greet customers politely. Standard greeting: “Welcome to Hello Telecom, how may I help you?” Use a friendly tone and a smile for face-to-face interactions."
+  },
+  {
+    "id": "customer-verification",
+    "title": "Customer Verification",
+    "content": "To protect customer accounts, always verify full legal name and last 4 digits of ID or passport. Never process sensitive requests without verification."
+  },
+  {
+    "id": "escalation-process",
+    "title": "Escalation Process",
+    "content": "If issues cannot be solved at first contact: Level 1: basic troubleshooting. Level 2: forward to technical team. Level 3: supervisor approval. Document all actions before escalating."
+  },
+  {
+    "id": "leave-requests",
+    "title": "Leave Requests",
+    "content": "Submit leave requests via the HR portal at least 7 days in advance. For emergency leave, notify your supervisor immediately and log it later."
+  },
+  {
+    "id": "sales-reporting",
+    "title": "Sales Reporting",
+    "content": "Enter daily sales in the CRM system by 8 PM. If the system is down, notify your supervisor and record the sales manually for later upload."
+  },
+  {
+    "id": "incident-reporting",
+    "title": "Incident Reporting",
+    "content": "Log all technical issues in the IT Helpdesk system immediately. Provide screenshots or error codes to speed up resolution."
+  },
+  {
+    "id": "hr-department",
+    "title": "HR Department",
+    "content": "Email hr@hello-telecom.com for leave, payroll, benefits, and policy inquiries."
+  },
+  {
+    "id": "it-helpdesk",
+    "title": "IT Helpdesk",
+    "content": "Email it@hello-telecom.com for login issues, portal downtime, or IT-related problems."
+  },
+  {
+    "id": "supervisor-hotline",
+    "title": "Supervisor Hotline",
+    "content": "Dial *200 for urgent cases requiring supervisor approval, such as escalated disputes."
+  }
+]

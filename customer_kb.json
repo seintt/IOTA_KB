@@ -1,0 +1,62 @@
+[
+  {
+    "id": "how-to-activate-your-sim",
+    "title": "How to Activate Your SIM",
+    "content": "Activating your SIM is the first step to using Hello Telecom services. Without activation, you cannot make calls, send SMS, or use data. Insert your SIM card, dial *123#, and wait for a confirmation SMS. If you do not receive the SMS, check that your phone is unlocked and supports Hello Telecom’s network."
+  },
+  {
+    "id": "how-to-top-up",
+    "title": "How to Top-Up",
+    "content": "You can add credit to your Hello Telecom account using multiple methods: buy a voucher and dial *101*PIN#, use the Hello Telecom App and select Top-Up, or visit hello-telecom.com/topup. Credit is applied instantly. If delayed, check your SMS inbox for confirmation before retrying."
+  },
+  {
+    "id": "check-your-balance",
+    "title": "Check Your Balance",
+    "content": "To check your balance, dial *101# for an instant USSD reply or use the Hello Telecom App dashboard. Postpaid users will see their remaining data, while prepaid users see both credit and data bundles."
+  },
+  {
+    "id": "prepaid-plans-overview",
+    "title": "Prepaid Plans Overview",
+    "content": "Prepaid plans give you flexibility without contracts. Options include daily bundles starting at $2/day, weekly bundles with balanced calls and data, and monthly bundles for best value. Good for students, travelers, or cost-conscious users."
+  },
+  {
+    "id": "postpaid-plans-overview",
+    "title": "Postpaid Plans Overview",
+    "content": "Postpaid plans are billed monthly and start at $20/month. They include unlimited local calls, flexible data add-ons, and a detailed monthly bill via email or app. Good for professionals and families who need consistent connectivity."
+  },
+  {
+    "id": "data-packages",
+    "title": "Data Packages",
+    "content": "You can add extra data anytime: 1GB (1 day), 5GB (7 days), 10GB (30 days), or unlimited options. Activate via *123*data# or the app. Data usage alerts are sent via SMS."
+  },
+  {
+    "id": "no-signal",
+    "title": "No Signal",
+    "content": "Signal issues may result from outages, SIM problems, or coverage gaps. Restart your phone, reinsert your SIM, or switch to 3G/4G manually. If the problem persists, call customer care at 111 or visit a service center."
+  },
+  {
+    "id": "slow-internet",
+    "title": "Slow Internet",
+    "content": "Slow connections can be caused by bundle limits or poor coverage. Check if your bundle is expired, confirm you are in a strong coverage area, or switch to 4G/5G if available. Tip: toggle airplane mode to refresh your connection."
+  },
+  {
+    "id": "lost-sim",
+    "title": "Lost SIM",
+    "content": "If you lose your SIM, call 111 immediately to block it, then visit the nearest Hello Telecom store with ID for a replacement. Replacement fees may apply."
+  },
+  {
+    "id": "contact-customer-care",
+    "title": "Contact Customer Care",
+    "content": "Our support team is available 24/7. Dial 111 from your Hello SIM or email support@hello-telecom.com."
+  },
+  {
+    "id": "hello-telecom-app-support",
+    "title": "Hello Telecom App Support",
+    "content": "Use the Help section in the Hello Telecom App to chat with an agent or view guides. This is the fastest way to resolve account issues."
+  },
+  {
+    "id": "website-faq",
+    "title": "Website FAQ",
+    "content": "Visit hello-telecom.com/faq for quick answers to common problems, including billing and roaming."
+  }
+]
